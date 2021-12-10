@@ -13,7 +13,7 @@ A cada segundo os seguintes eventos ocorem:
 3 - a celula que tiver mais de 3 vizinhos vivos, morre, como se fosse por superpopulação;
 4 - a celula morta que tiver exatamente 3 celulas vivas como vizinhos, torna-se uma celula viva, como se fosse uma reprodução.
 
-## simplificam-do
+## simplificando-o
 
 1 - a celula com 2 ou 3 vizinhos vivos  sobrevive;
 2 - uma celula morta com 3 vizinhos vivos, torna-se numa celula viva;
