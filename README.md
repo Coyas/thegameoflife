@@ -8,7 +8,7 @@ O espaco do jogo da vida é  uma matriz ortogonal de duas dimenções com celula
 Cada celula interage com os seus 8 vizinhos, nos quais são as celulas horizontais, verticais ou a adjacente diagonal.
 A cada segundo os seguintes eventos ocorem:
 
-1- a celula que tiver menos de 2 vizinhos vivos, morre, como se fosse por haver pouca população;
+-1 - a celula que tiver menos de 2 vizinhos vivos, morre, como se fosse por haver pouca população;
 2- a celula que tiver 2 ou 3 vizinhos vivos, sobrevive na proxima geração;
 3- a celula que tiver mais de 3 vizinhos vivos, morre, como se fosse por superpopulação;
 4- a celula morta que tiver exatamente 3 celulas vivas como vizinhos, torna-se uma celula viva, como se fosse uma reprodução.
