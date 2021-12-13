@@ -11,7 +11,7 @@ The Game Of life - by - John Horton Conway
 
 
 # O jogo da vida
-O espaco do jogo da vida é  uma matriz ortogonal de duas dimenções com celulas quadraticas, no qual apenas exite dois estados possiveis, vivo ou morto (0 & 1 (:-) ).
+O espaco do jogo da vida é  uma matriz ortogonal de duas dimenções com celulas quadraticas, no qual apenas existe dois estados possiveis, vivo ou morto (0 & 1 (:-) ).
 
 Cada celula interage com os seus 8 vizinhos, nos quais são as celulas horizontais, verticais ou a adjacente diagonal.
 A cada segundo os seguintes eventos ocorem:
@@ -28,4 +28,6 @@ A cada segundo os seguintes eventos ocorem:
 3. - todas as outras celulas morrem na proxima geração.
 
 
-O padraon inicial constitui a semente do sistema.A primeira geração é criado as regras citadas, aplicando-os simultaniamente a cada celula da semente, "para ser vivo ou morto". Nascimentos e mortes ocorem simultaniamente e cada geração é uma pura função da sua predecessora, e as regras vao continuando a ser aplicadas nas futuras gerações.
+O padrão inicial constitui a semente do sistema.A primeira geração é criado as regras citadas, aplicando-os simultaniamente a cada celula da semente, "para ser vivo ou morto". Nascimentos e mortes ocorem simultaniamente e cada geração é uma pura função da sua predecessora, e as regras vao continuando a ser aplicadas nas futuras gerações.
+
+#
