@@ -2,8 +2,11 @@
 The Game Of life - by - John Horton Conway
 
 <https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life>
+
 <https://web.stanford.edu/class/sts145/Library/life.pdf>
+
 <https://web.mit.edu/sp.268/www/2010/lifeSlides.pdf>
+
 <https://epubs.siam.org/doi/pdf/10.1137/S0036144598338252>
 
 
